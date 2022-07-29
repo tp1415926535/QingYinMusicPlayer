@@ -5,8 +5,8 @@
 ![主界面](https://github.com/tp1415926535/QingYinMusicPlayer/blob/main/Images/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)    
      
 ## 下载 [v 1.0.0.1]
-* 地址1：[Github](https://github.com/tp1415926535/QingYinMusicPlayer/raw/main/%E6%B8%85%E9%9F%B3v1.0.0.1.zip)
-* 地址2：[蓝奏云](https://wwp.lanzouw.com/inUAr08ne94j)
+* 地址1：[Github](https://github.com/tp1415926535/QingYinMusicPlayer/raw/main/%E6%B8%85%E9%9F%B3v1.0.0.1.zip)   
+* 地址2：[蓝奏云](https://wwp.lanzouw.com/inUAr08ne94j)   
    
 *解压后双击“清音.exe”即可使用。*    
    
